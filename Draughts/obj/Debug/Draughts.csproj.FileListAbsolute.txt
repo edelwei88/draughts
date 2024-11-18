@@ -1,0 +1,11 @@
+C:\Users\edelweiss\Desktop\Гремлинус\Draughts\bin\Debug\Draughts.dll
+C:\Users\edelweiss\Desktop\Гремлинус\Draughts\bin\Debug\Draughts.pdb
+C:\Users\edelweiss\Desktop\Гремлинус\Draughts\obj\Debug\Draughts.csproj.AssemblyReference.cache
+C:\Users\edelweiss\Desktop\Гремлинус\Draughts\obj\Debug\Draughts.csproj.CoreCompileInputs.cache
+C:\Users\edelweiss\Desktop\Гремлинус\Draughts\obj\Debug\Draughts.dll
+C:\Users\edelweiss\Desktop\Гремлинус\Draughts\obj\Debug\Draughts.pdb
+C:\Users\edelweiss\Desktop\Гремлинус\Draughts\obj\Debug\Draughts.Result.resources
+C:\Users\edelweiss\Desktop\Гремлинус\Draughts\obj\Debug\Draughts.csproj.GenerateResource.cache
+C:\Users\edelweiss\Desktop\Гремлинус\Draughts\bin\Debug\Newtonsoft.Json.dll
+C:\Users\edelweiss\Desktop\Гремлинус\Draughts\bin\Debug\Newtonsoft.Json.xml
+C:\Users\edelweiss\Desktop\Гремлинус\Draughts\obj\Debug\Draughts.csproj.Up2Date

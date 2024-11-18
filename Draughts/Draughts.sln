@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Draughts", "Draughts.csproj", "{4A9A4A67-8B10-479A-912B-45CFE61DF351}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DraughtsGame", "..\DraughtsGame\DraughtsGame.csproj", "{B51BC055-9FF8-40C3-8680-C8B3CC635FD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A9A4A67-8B10-479A-912B-45CFE61DF351}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A9A4A67-8B10-479A-912B-45CFE61DF351}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A9A4A67-8B10-479A-912B-45CFE61DF351}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A9A4A67-8B10-479A-912B-45CFE61DF351}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B51BC055-9FF8-40C3-8680-C8B3CC635FD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B51BC055-9FF8-40C3-8680-C8B3CC635FD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B51BC055-9FF8-40C3-8680-C8B3CC635FD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B51BC055-9FF8-40C3-8680-C8B3CC635FD2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A302C4D7-DB44-4B0D-AACC-BA867FEE8A02}
+	EndGlobalSection
+EndGlobal

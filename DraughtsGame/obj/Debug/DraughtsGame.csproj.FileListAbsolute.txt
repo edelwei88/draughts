@@ -1,0 +1,17 @@
+C:\Users\edelweiss\Desktop\Гремлинус\DraughtsGame\bin\Debug\DraughtsGame.exe.config
+C:\Users\edelweiss\Desktop\Гремлинус\DraughtsGame\bin\Debug\DraughtsGame.exe
+C:\Users\edelweiss\Desktop\Гремлинус\DraughtsGame\bin\Debug\DraughtsGame.pdb
+C:\Users\edelweiss\Desktop\Гремлинус\DraughtsGame\bin\Debug\Draughts.dll
+C:\Users\edelweiss\Desktop\Гремлинус\DraughtsGame\bin\Debug\Draughts.pdb
+C:\Users\edelweiss\Desktop\Гремлинус\DraughtsGame\obj\Debug\DraughtsGame.csproj.AssemblyReference.cache
+C:\Users\edelweiss\Desktop\Гремлинус\DraughtsGame\obj\Debug\DraughtsGame.Properties.Resources.resources
+C:\Users\edelweiss\Desktop\Гремлинус\DraughtsGame\obj\Debug\DraughtsGame.csproj.GenerateResource.cache
+C:\Users\edelweiss\Desktop\Гремлинус\DraughtsGame\obj\Debug\DraughtsGame.csproj.CoreCompileInputs.cache
+C:\Users\edelweiss\Desktop\Гремлинус\DraughtsGame\obj\Debug\Draughts.707F68D6.Up2Date
+C:\Users\edelweiss\Desktop\Гремлинус\DraughtsGame\obj\Debug\DraughtsGame.exe
+C:\Users\edelweiss\Desktop\Гремлинус\DraughtsGame\obj\Debug\DraughtsGame.pdb
+C:\Users\edelweiss\Desktop\Гремлинус\DraughtsGame\obj\Debug\DraughtsGame.GameForm.resources
+C:\Users\edelweiss\Desktop\Гремлинус\DraughtsGame\obj\Debug\DraughtsGame.Login.resources
+C:\Users\edelweiss\Desktop\Гремлинус\DraughtsGame\bin\Debug\Newtonsoft.Json.dll
+C:\Users\edelweiss\Desktop\Гремлинус\DraughtsGame\bin\Debug\Newtonsoft.Json.xml
+C:\Users\edelweiss\Desktop\Гремлинус\DraughtsGame\obj\Debug\DraughtsGame.Results.resources
